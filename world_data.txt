@@ -1,0 +1,11 @@
+[general]
+mods=1
+name=the baba, the me and the keke
+firstlevel=100
+start=100
+author=someusername6
+
+[levels]
+levelid=104
+rolling_levelid=104
+
