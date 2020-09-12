@@ -26,5 +26,10 @@ and pull new updates when necessary.
 Custom levels and level editor must be enabled.
 
 ### Changelog
+- 0.0.2
+  - Made rule-to-be-completed more explicit in "The Baba".
+  - Updated line disappearing logic in "The Baba".
+  - Better visibility on fofo words (gray and blue).
+  - Updated "The Keke": keke near cowfo is now defeat, helping guide to the solution
 - 0.0.1
   - Proof of concept release.
