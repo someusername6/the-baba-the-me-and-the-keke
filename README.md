@@ -25,7 +25,20 @@ and pull new updates when necessary.
 
 Custom levels and level editor must be enabled.
 
+### Playtesters
+
+Thanks to the following discord users for early feedback:
+
+JustWhy?
+hutthutthutt
+hillexed
+Mrnoob
+
 ### Changelog
+- 0.0.4
+  - Remove one unintended counterfeiting solution in "Gun Assembly".
+  - Minor aesthetic updates in a few levels.
+  - Added playtester's list to README.
 - 0.0.3
   - Added 3 new levels.
   - Updated map to open all initial 3 levels.
