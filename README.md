@@ -9,7 +9,7 @@ Currently a work in progress; released for playtesting / feedback.
 
 Includes:
 
-* 6 puffs, 1 blossom, no bonuses
+* 12 puffs, 4 blossoms, no bonuses
 * Custom music track
 * Custom word (shoot: fall in current facing direction)
 
@@ -29,12 +29,17 @@ Custom levels and level editor must be enabled.
 
 Thanks to the following discord users for early feedback:
 
-JustWhy?
-hutthutthutt
-hillexed
-Mrnoob
+- JustWhy?
+- hutthutthutt
+- hillexed
+- Mrnoob
 
 ### Changelog
+- 0.1.0
+  - Renamed level IDs: saves from previous versions may not be compatible.
+  - Added 6 new levels.
+  - Added title screen and assigned levels to areas.
+  - Updated palette border color to black.
 - 0.0.4
   - Remove one unintended counterfeiting solution in "Gun Assembly".
   - Minor aesthetic updates in a few levels.

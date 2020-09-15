@@ -1,11 +1,11 @@
 [general]
 mods=1
 name=the baba, the me and the keke
-firstlevel=100
-start=100
+firstlevel=000level
+start=000level
 author=someusername6
 
 [levels]
-levelid=107
-rolling_levelid=107
+levelid=112
+rolling_levelid=118
 
