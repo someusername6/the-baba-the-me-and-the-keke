@@ -33,7 +33,7 @@ Thanks to the following discord users for early feedback:
 - hutthutthutt
 - hillexed
 - Mrnoob
-- Zordings
+- Zording
 - Obvious
 
 ### Changelog
