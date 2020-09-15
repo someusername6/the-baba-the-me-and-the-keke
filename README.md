@@ -33,8 +33,13 @@ Thanks to the following discord users for early feedback:
 - hutthutthutt
 - hillexed
 - Mrnoob
+- Zordings
+- Obvious
 
 ### Changelog
+- 0.1.1
+  - Move one rule in "The Baba" to remove unintended solutions.
+  - Moved and added rules in "Leaving Baba to Dry" to remove unintended solutions.
 - 0.1.0
   - Renamed level IDs: saves from previous versions may not be compatible.
   - Added 6 new levels.
