@@ -9,8 +9,8 @@ Currently a work in progress; released for playtesting / feedback.
 
 Includes:
 
-* 12 puffs, 4 blossoms, no bonuses
-* Custom music track
+* 18 puffs, 6 blossoms, no bonuses
+* Custom music tracks
 * Custom word (shoot: fall in current facing direction)
 
 See [REFERENCES](REFERENCES.md) for a partial list of assets and references (with minor spoilers).
@@ -37,6 +37,10 @@ Thanks to the following discord users for early feedback:
 - Obvious
 
 ### Changelog
+- 0.2.0
+  - Added chapters 5 and 6 (6 new levels).
+  - Added one rule to "Gun Assembly" to remove unintended solution.
+  - Added one rule in "Leaving Baba to Dry' to remove unintended solution.
 - 0.1.1
   - Move one rule in "The Baba" to remove unintended solutions.
   - Moved and added rules in "Leaving Baba to Dry" to remove unintended solutions.
